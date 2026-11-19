@@ -1,0 +1,7 @@
+path: C:/Users/Daria/Desktop/Учеба/2 курс/3 семестр/2к_Гуськов_АИСД/для 4 лабы/datasets/drones
+train: images/train
+val: images/val
+test: images/test
+nc: 1
+names:
+  0: drone
